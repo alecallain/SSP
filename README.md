@@ -1,4 +1,4 @@
-# SSP
+# SSP (System Programming Project)
 CIS241 Merkle Hash Tree Project
 
 *Before you begin*: Download the projectFiles folder and edit the directory path in the ScanDirectory() function. The path will not be the same on your computer compared to mine.
