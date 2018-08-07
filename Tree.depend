@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1533639844 source:/Users/aleclightyear/Desktop/Tree/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	"md5.h"
+
+1532896421 source:/Users/aleclightyear/Desktop/Tree/md5.c
+	<string.h>
+	"md5.h"
+
+1532896421 /Users/aleclightyear/Desktop/Tree/md5.c
+	<string.h>
+	"md5.h"
+
+1532896358 /Users/aleclightyear/Desktop/Tree/md5.h
+	<openssl/md5.h>
+
